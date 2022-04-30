@@ -2,7 +2,7 @@
 A repository for a 3D RPG that would have been made in Godot for the class C220 Game Technology at Indiana University. 
 
 ## Implementation
-No Implentation of any features because there is no project.
+Jason Francis said that we could get full credit for just turning in a README and a license so that's what I did.
 
 ## References
 I have no references as there is no project.
